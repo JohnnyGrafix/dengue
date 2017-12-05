@@ -9,17 +9,16 @@ h3 {
     color: #942c61;
 }
 .contentBox {
-	position: relative;
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-around;
+	justify-content: center;
 	max-width: 1200px;
 }
 .main {
    display: inline-flex;
    position: relative;
    width: 100%;
-   height: 650px;
+   height: 600px;
    max-width: 400px;
    margin: auto;
    margin-bottom: 200px;
@@ -45,7 +44,7 @@ h3 {
 	width: 11%;
 }
 #p1b1 {
-	top: 21%;
+	top: 22%;
 	left: 8%;
 }
 #p1b2 {
@@ -91,15 +90,15 @@ h3 {
 }
 #p2b1 {
 	top: 20%;
-	left: 8%;
+	left: 9.5%;
 }
 #return {
 	top: 90%;
-	left: 8%;
+	left: 9.5%;
 }
 #back {
 	top: 92%;
-	left: 20%;
+	left: 21%;
 }
 #next {
 	top: 90%;
@@ -111,31 +110,31 @@ h3 {
 }
 #p3b2 {
 	top: 40%;
-	left: 8%;
+	left: 9.5%;
 }
 #p3text2{
 	top: 20%;
-	left: 20%;
+	left: 21%;
 }
 #p4b3 {
 	top: 55%;
-	left: 8%;
+	left: 9.5%;
 }
 #p4text3 {
 	top: 40%;
-	left: 20%;
+	left: 21%;
 }
 #p5b4 {
 	top: 70%;
-	left: 8%;
+	left: 9.5%;
 }
 #p5text4 {
 	top: 55%;
-	left: 20%;
+	left: 21%;
 }
 #p6text5 {
 	top: 70%;
-	left: 20%;
+	left: 21%;
 }
 #p7text1 {
 	top: 1%;
