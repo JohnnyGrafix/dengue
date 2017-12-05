@@ -9,6 +9,7 @@ h3 {
     color: #942c61;
 }
 .contentBox {
+	position: relative;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
@@ -38,24 +39,114 @@ h3 {
 }
 .button {
 	position: absolute;
-	width: 12%;
+	width: 10%;
 }
 .button:hover {
-	width: 13%;
+	width: 11%;
 }
 #p1b1 {
-	top: 22%;
+	top: 21%;
 	left: 8%;
 }
 #p1b2 {
-	top: 63%;
-	left: 8%;
+    top: 63%;
+	left: 8%;	
 }
 #p1b3 {
-	top: 73%;
-	left: 8%;
+    top: 73%;
+	left: 8%;	
 }
 #p1b4 {
 	top: 83%;
 	left: 8%;
+}
+
+#p1text2 {
+	top: 23.5%;
+	left: 21%;
+}
+#p1text3 {
+	top: 64.5%;
+	left: 21%;
+}
+#p1text4 {
+	top: 74.5%;
+	left: 21%;
+}
+#p1text5 {
+	top: 84.5%;
+	left: 21%;
+}
+#return {
+	top: 90%;
+	left: 8%;
+	}
+#next {
+	top: 90%;
+	left: 82%;
+}
+#p2text1 {
+	top: 1%;
+	left: 1%;
+}
+#p2b1 {
+	top: 20%;
+	left: 8%;
+}
+#return {
+	top: 90%;
+	left: 8%;
+}
+#back {
+	top: 92%;
+	left: 20%;
+}
+#next {
+	top: 90%;
+	left: 88%;
+}
+#forward {
+	top: 92%;
+	left: 75%;
+}
+#p3b2 {
+	top: 40%;
+	left: 8%;
+}
+#p3text2{
+	top: 20%;
+	left: 20%;
+}
+#p4b3 {
+	top: 55%;
+	left: 8%;
+}
+#p4text3 {
+	top: 40%;
+	left: 20%;
+}
+#p5b4 {
+	top: 70%;
+	left: 8%;
+}
+#p5text4 {
+	top: 55%;
+	left: 20%;
+}
+#p6text5 {
+	top: 70%;
+	left: 20%;
+}
+#p7text1 {
+	top: 1%;
+	left: 1%;
+}
+#page7 img {
+	position: absolute;
+	width: 100%;
+	top: 15%;
+}
+#p7text2 {
+	top: 60%;
+	left: 60%;
 }
