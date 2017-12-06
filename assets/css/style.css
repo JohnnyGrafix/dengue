@@ -18,7 +18,7 @@ h3 {
    display: inline-flex;
    position: relative;
    width: 100%;
-   height: 600px;
+   height: 550px;
    max-width: 400px;
    margin: auto;
    margin-bottom: 200px;
@@ -44,36 +44,36 @@ h3 {
 	width: 11%;
 }
 #p1b1 {
-	top: 22%;
+	top: 27%;
 	left: 8%;
 }
 #p1b2 {
-    top: 63%;
+    top: 68%;
 	left: 8%;	
 }
 #p1b3 {
-    top: 73%;
+    top: 78%;
 	left: 8%;	
 }
 #p1b4 {
-	top: 83%;
+	top: 88%;
 	left: 8%;
 }
 
 #p1text2 {
-	top: 23.5%;
+	top: 28.5%;
 	left: 21%;
 }
 #p1text3 {
-	top: 64.5%;
+	top: 69.5%;
 	left: 21%;
 }
 #p1text4 {
-	top: 74.5%;
+	top: 79.5%;
 	left: 21%;
 }
 #p1text5 {
-	top: 84.5%;
+	top: 89.5%;
 	left: 21%;
 }
 #return {
@@ -109,31 +109,31 @@ h3 {
 	left: 75%;
 }
 #p3b2 {
-	top: 40%;
+	top: 30%;
 	left: 9.5%;
 }
 #p3text2{
-	top: 20%;
+	top: 30%;
 	left: 21%;
 }
 #p4b3 {
-	top: 55%;
+	top: 45%;
 	left: 9.5%;
 }
 #p4text3 {
-	top: 40%;
+	top: 30%;
 	left: 21%;
 }
 #p5b4 {
-	top: 70%;
+	top: 60%;
 	left: 9.5%;
 }
 #p5text4 {
-	top: 55%;
+	top: 45%;
 	left: 21%;
 }
 #p6text5 {
-	top: 70%;
+	top: 60%;
 	left: 21%;
 }
 #p7text1 {
@@ -146,7 +146,7 @@ h3 {
 	top: 15%;
 }
 #p7text2 {
-	top: 60%;
+	top: 70%;
 	left: 60%;
 }
 #p8text1 {
@@ -158,12 +158,12 @@ h3 {
 	left: 2%;
 }
 #p8text3 {
-	top: 75%;
-	left: 20%;
+	top: 35%;
+	left: 50%;
 }
 #p9text3 {
-	top: 75%;
-	left: 20%;
+	top: 50%;
+	left: 30%;
 }
 .virus {
 	position: absolute;
@@ -174,4 +174,30 @@ h3 {
 }
 #virus2 {
 	width: 95%;
+}
+#virus3 {
+	width: 40%;
+	top: 35%;
+}
+#p10text3 {
+	top: 35%;
+	left: 20%;
+	color: #942c61; 
+}
+#virus4 {
+	width: 95%;
+	top: 30%;
+}
+#p11text3 {
+	top: 22%;
+	left: 15%;
+}
+#p11text4 {
+	top: 45%;
+	left: 45%;
+}
+#p11text5 {
+	top: 72%;
+	left: 15%;
+	color: #942c61; 
 }
