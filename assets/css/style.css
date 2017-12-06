@@ -239,3 +239,42 @@ h3 {
 #page11 {
 	display: none;
 }
+@media only screen and (min-width: 500px){
+	.main {
+		margin: none;
+		width: 47%;
+		max-width: 300px;
+	}
+	#page3, #page4, #page5 {
+		display: none;
+	}
+	#p1text2, #p1text3, #p1b1, #p1b2, svg{
+		display: none;
+	}
+	#p2text1 h3{
+		font-size: 1rem;
+		top: 18%;
+		color: gray;
+	}
+	#p4text3 {
+		top: 15%;
+		left: 2%;
+	}
+	#p4b3, #p3b2, #p5b4, #return, #back {
+		display: none;
+	}
+	#p5text4 {
+		top: 30%;
+		left: 2%;
+	}
+	#p6text5 {
+		top: 40%;
+		left: 2%;
+	}
+}
+@media only screen and (min-width: 800px){
+	.main {
+		margin: none;
+		width: 30%;
+	}
+}
