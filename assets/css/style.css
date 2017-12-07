@@ -309,13 +309,14 @@ h3 {
 	}
 	#p11text3 {
 		top: 35%;
+		left: 5%;
 		font-size: 0.9rem;
 	}
 	#virus4 {
 		top: 45%;
 	}
 	#p11text4 {
-		top: 55%;
+		top: 60%;
 		font-size: 0.9rem;
 	}
 	#p11text5 {
@@ -336,7 +337,7 @@ h3 {
 		width: 30%;
 		margin-bottom: 0px;
 	}
-	#return12, #back12, #nextWide, #forwardWide {
+	#return12, #back12, #nextWide, #forwardWide, #p7text1 {
 		display: none;
 	}
 }
